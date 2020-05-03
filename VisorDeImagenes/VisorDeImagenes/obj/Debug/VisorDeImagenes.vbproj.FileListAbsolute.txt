@@ -1,0 +1,12 @@
+C:\Users\equipo\source\repos\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.exe.config
+C:\Users\equipo\source\repos\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.exe
+C:\Users\equipo\source\repos\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.pdb
+C:\Users\equipo\source\repos\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.xml
+C:\Users\equipo\source\repos\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.vbprojAssemblyReference.cache
+C:\Users\equipo\source\repos\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.Form1.resources
+C:\Users\equipo\source\repos\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.Resources.resources
+C:\Users\equipo\source\repos\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.vbproj.GenerateResource.cache
+C:\Users\equipo\source\repos\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.vbproj.CoreCompileInputs.cache
+C:\Users\equipo\source\repos\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.exe
+C:\Users\equipo\source\repos\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.xml
+C:\Users\equipo\source\repos\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.pdb
